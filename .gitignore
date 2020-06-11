@@ -1,0 +1,34 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+src/test/java/kafa/selenium/AppTraining.java
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+#maven
+log/
+target/
+
+#eclipse
+.classpath
+.project
+
+#allure
+.allure/
+allure-results/
+
+# logger
+logs/
+
+cucumber-reports/
