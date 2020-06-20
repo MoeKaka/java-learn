@@ -7,8 +7,7 @@ public class MainApp {
 		System.out.println("Hallo World");
 		System.out.println("Hallo from Germany");
 		System.out.println("Hello from Romania windows");
-		
-
+		System.out.println("hello from romania mac");
 	}
 
 }
