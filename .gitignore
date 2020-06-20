@@ -23,6 +23,7 @@ target/
 #eclipse
 .classpath
 .project
+.DS_Store
 
 #allure
 .allure/
