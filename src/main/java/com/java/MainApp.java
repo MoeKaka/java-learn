@@ -1,6 +1,6 @@
 package com.java;
 
-public class Lesson8_MainApp {
+public class MainApp {
 	
 	public static void main(String[] args) {
 		
